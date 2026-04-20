@@ -50,6 +50,7 @@ button {
   height: 32px;
   border: 1px solid #a8b0bd;
   background: #d5dde8;
+  color: #1f2937;
   font-weight: bold;
   cursor: pointer;
   user-select: none;
@@ -57,6 +58,7 @@ button {
 
 .cell.revealed {
   background: #ffffff;
+  color: #111827;
 }
 
 .cell.mine {
